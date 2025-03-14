@@ -32,3 +32,6 @@ Mmail Genius is a smart AI-powered email assistant designed to generate professi
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/mmail-genius.git
+
+### Rate limit
+1. Added the functionality of 100request / min
