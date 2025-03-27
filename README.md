@@ -1,6 +1,6 @@
 # Mail Genius: Your AI Email Assistant
 
-Mmail Genius is a smart AI-powered email assistant designed to generate professional and context-appropriate auto-replies for your emails. Powered by advanced language models, it helps save time and ensures effective communication by crafting tailored email responses.
+Mail Genius is a smart AI-powered email assistant designed to generate professional and context-appropriate auto-replies for your emails. Powered by advanced language models, it helps save time and ensures effective communication by crafting tailored email responses.
 
 ## Features
 - **Auto-Reply Generation**: Create professional replies for incoming emails automatically.
